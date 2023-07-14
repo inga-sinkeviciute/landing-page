@@ -43,7 +43,7 @@ header {
 }
 
 .hero {
-  background-image: url("/img/bg-masthead.jpg");
+  background: url("/img/bg-masthead.jpg");
   background-size: cover;
   background-position: center;
   height: 60vh;
